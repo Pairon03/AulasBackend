@@ -55,6 +55,18 @@ console.log(clinica);
 // Atividade 5
  console.log("Atividade 5");
 
+ let livro = {
+  titulo : "As aventuras de Raimundo",
+  autor : "Rayner",
+  anoPublicacao : 2022,
+  genero : "Aventura",
+ };
+
+ console.log("Título:", livro.titulo);
+ console.log("Autor:", livro.autor);
+ console.log("Ano de Publicação:", livro.anoPublicacao);
+ console.log("Gênero:", livro.genero);
+
 
  console.log(" ");
 
